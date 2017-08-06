@@ -1,0 +1,37 @@
+Jobs ideas :
+
+- sample
+  Description : accurate description of the job. 66 characters
+    per line.
+  Vehicle : the vehicle used. None if not applicable.
+  Salary : when it is paid (periodic, per task) | bonus on paiement + condition | The Company that pay the salary
+
+- ambulance-man
+  Description : the ambulance man is in charge of saving players
+    from death. When a player has its health at 0 he will enter
+    a coma state where he is allowed to either call an ambulance
+    or choosing to die. When he call an ambulance, a life alert
+    is sent to all active ambulances with an approximate
+    indication of where the coma-player is, then an ambulance
+    must accept the call to tell the other he is handling this
+    call and to get the exact location.
+  Vehicle : Ambulance
+  Salary : Periodic | None | State
+  
+- deliverer of drinks
+- deliverer of food
+- deliverer of pharmaceutics
+- deliverer of pizza
+- garbage man
+- gravedigger
+- mayor
+- miner
+- money transferer/keeper
+- pilot
+- policeman
+- postman
+- scientist
+- swimmingpool cleaner
+- taximan
+- towman
+- turbine reparator

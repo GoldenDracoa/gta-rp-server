@@ -17,8 +17,23 @@ Jobs ideas :
     call and to get the exact location.
   Vehicle : Ambulance
   Salary : ??? | Periodic | None | State
+  Technical description : The ambulance-man go to an hospital,
+     then has to press a button to confirm he is starting his
+     job. Once done he will get his uniform and an ambulance
+     will spawn. Now that he is in working-status, he is open
+     to the calls. The queue list will be displayed on his
+     screen.
+     When a call is given, he has to press the numeric button
+     corresponding of the call-queue's id (1 in most cases)
+     then the call disappear from the queue and a marker is
+     created to the exact location of the coma-player. Once
+     at the player, he will have to first inspect the victim
+     by pressing the action button and then he will be able
+     to reanimate the dead player at 10hp.
   
 - deliverer of drinks
+  Description : 
+
 - deliverer of food
 - deliverer of pharmaceutics
 - deliverer of pizza

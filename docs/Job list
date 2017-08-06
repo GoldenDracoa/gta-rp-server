@@ -4,7 +4,7 @@ Jobs ideas :
   Description : accurate description of the job. 66 characters
     per line.
   Vehicle : the vehicle used. None if not applicable.
-  Salary : when it is paid (periodic, per task) | bonus on paiement + condition | The Company that pay the salary
+  Salary : the amount it is paid (??? if unkniown yet) | when it is paid (periodic, per task) | bonus on paiement + condition | The Company group it is in
 
 - ambulance-man
   Description : the ambulance man is in charge of saving players
@@ -16,7 +16,7 @@ Jobs ideas :
     must accept the call to tell the other he is handling this
     call and to get the exact location.
   Vehicle : Ambulance
-  Salary : Periodic | None | State
+  Salary : ??? | Periodic | None | State
   
 - deliverer of drinks
 - deliverer of food

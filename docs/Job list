@@ -1,10 +1,16 @@
-Jobs ideas :
+Jobs ideas :                                                      |
 
 - sample
   Description : accurate description of the job. 66 characters
     per line.
   Vehicle : the vehicle used. None if not applicable.
-  Salary : the amount it is paid (??? if unkniown yet) | when it is paid (periodic, per task) | bonus on paiement + condition | The Company group it is in
+  Salary : $ | P | B | C
+     $ : The amount it is paid (??? if unkniown yet)
+     P : when it is paid (periodic, per task)
+     B : bonus on paiement + condition
+     C : The Company group it is in
+  Technical description (optional) : exact description of how the
+     job start and work and of what the player exactly has to do.
 
 - ambulance-man
   Description : the ambulance man is in charge of saving players
@@ -32,7 +38,20 @@ Jobs ideas :
      to reanimate the dead player at 10hp.
   
 - deliverer of drinks
-  Description : 
+  Description : The drinks deliverer is in charge of
+     delivering the drinks to the shops, the bar and the
+     vending machines.
+  Vehicle : deliver truck + drink skin
+  Salary : ??? | Per task+length of delivers | serie of deliver | Drink Company
+  Technical description : The drinks deliverer must go to its
+     company QG to get its truck by pressing a button, then
+     the drink truck spawn. Once he goes in he must go to the
+     warehouse. Once he is in, a random destination is taken
+     toward either a vending machine, a bar or a shop, marked
+     on the map. Once he goes in and reach the destination,
+     he can choose between continuing onto the next one or
+     stopping the service by having to bring back the truck
+     to the QG.
 
 - deliverer of food
 - deliverer of pharmaceutics

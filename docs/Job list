@@ -42,7 +42,7 @@ Jobs ideas :                                                      |
      delivering the drinks to the shops, the bar and the
      vending machines.
   Vehicle : deliver truck + drink skin
-  Salary : ??? | Per task+length of delivers | serie of deliver | Drink Company
+  Salary : ??? | Per task+length of deliveries | serie of deliveries | Drink Company
   Technical description : The drinks deliverer must go to its
      company QG to get its truck by pressing a button, then
      the drink truck spawn. Once he goes in he must go to the
@@ -54,8 +54,20 @@ Jobs ideas :                                                      |
      to the QG.
 
 - deliverer of food
+  Description : The food deliverer is in charge of
+     delivering the drinks to the shops and the restaurants.
+  Vehicle : delivery truck + food skin
+  Salary : ??? | Per task+length of deliveries | serie of delivery | Food company
+  
 - deliverer of pharmaceutics
+  Description : The pharmaceutics deliverer is in charge of
+     delivering the medicals to the hospitals.
+  Vehicle : Pharmatol truck
+  Salary : ??? | Per task+length of deliveries | serie of delivery | State
+  
 - deliverer of pizza
+  Description : 
+  
 - garbage man
 - gravedigger
 - mayor

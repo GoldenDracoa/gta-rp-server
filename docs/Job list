@@ -78,6 +78,11 @@ Jobs ideas :                                                      |
 - postman
 - scientist
 - swimmingpool cleaner
+
 - taximan
+  Description : The taximan drives around people in a cab.
+  Vehicle : Cab
+  Salary : depending on length of route (Starting cost: 5.00$ + 2.50$ per km) | Per call | tips depending on the customer | Taxi Company
+  
 - towman
 - turbine reparator

@@ -66,10 +66,21 @@ Jobs ideas :                                                      |
   Salary : ??? | Per task+length of deliveries | serie of delivery | State
   
 - deliverer of pizza
-  Description : 
+  Description : The pizza deliverer is in charge of
+     delivering pizza to citizens of the city.
+  Vehicle : Scooter
+  Salary : ??? | per task | speed of deliveries | Pizza company
   
 - garbage man
+  Description : The garbage man collect the garbages
+     of the streets.
+  Vehicle : Garbage Truck
+  Salary : ??? | per street | serie of street | State
+  
 - gravedigger
+  Description : The gravedigger put dead corpses
+     into the graveyard.
+
 - mayor
 - miner
 - money transferer/keeper

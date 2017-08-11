@@ -80,9 +80,21 @@ Jobs ideas :                                                      |
 - gravedigger
   Description : The gravedigger put dead corpses
      into the graveyard.
+  Vehicle : ???
+  Salary : ??? | periodic | random event | State
 
 - mayor
+  Description : The mayor manage the city. Its the most
+     important job, he gets elected every ??? weeks and
+     can fix the taxes, the income-help and the researches
+     for his citizen. He is in charge of managing all the
+     turism and public facilities.
+  Vehicle : ???
+  Salary : taxes + ??? | periodic | None | State
+  
 - miner
+  Description : 
+  
 - money transferer/keeper
 - pilot
 - policeman
